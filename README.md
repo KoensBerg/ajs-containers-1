@@ -1,4 +1,4 @@
-# Задача #1 к лекции «Контейнеры»
+# Задача #1 («Set») к лекции «Контейнеры»
 
 [![Build status](https://ci.appveyor.com/api/projects/status/p2tlo7wvy7ccuy3t?svg=true)](https://ci.appveyor.com/project/KoensBerg/ajs-containers-1)
 
